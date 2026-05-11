@@ -1,9 +1,9 @@
 
-# 💸 Gaste Menos CLI
+#  Gaste Menos CLI
 
 Aplicação de linha de comando para controle de gastos pessoais.
 
-## 🚀 Nova funcionalidade
+##  Nova funcionalidade
 
 Integração com API pública de cotação de moedas utilizando AwesomeAPI.
 
@@ -12,13 +12,13 @@ Agora o sistema consegue:
 - Converter o total de gastos para USD
 - Validar integração com teste automatizado
 
-## 📦 Tecnologias
+##  Tecnologias
 - Python
 - Requests
 - Pytest
 - GitHub Actions
 
-## ▶️ Como executar
+##  Como executar
 
 Clone o projeto:
 
